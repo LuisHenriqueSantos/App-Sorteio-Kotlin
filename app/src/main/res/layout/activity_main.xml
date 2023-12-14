@@ -5,5 +5,4 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:backgroundTint="@color/material_dynamic_neutral10"
-    android:onClick="acaoBotao"
     tools:context=".MainActivity"/>

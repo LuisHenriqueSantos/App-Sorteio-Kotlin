@@ -10,9 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun acaoBotao(view: View){
-        println("Botão clicado")
-    }
-
 
 }
